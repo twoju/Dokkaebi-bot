@@ -11,7 +11,7 @@
 - - -
 
 ## 🎬 시연 영상 및 UCC
-
+### 페이지 상세 : [Notion 시연 시나리오](https://hyojlee.notion.site/18f483b1354949c1b4923af05b4f4a98?pvs=4)
 ### 프로젝트 UCC
 <!--<a href="https://youtu.be/97-a894fMSg"><img src="https://blog.kakaocdn.net/dn/c2yJ7I/btqwXeUM6jI/a3WrMGPo9vakaDzQWepkOK/img.jpg"  width="140"/></a>-->
 <a href="https://youtu.be/97-a894fMSg" target="_blank">
