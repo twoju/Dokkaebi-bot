@@ -1,7 +1,6 @@
 # <img src='./front-end/src/assets/logo.png'  height="24"/> 도깨비봇
 
 ## <img src='./front-end/src/assets/dokkaebi.png'  height="24"/> 올바른 공부 습관을 위한 분석 서비스 <img src='./front-end/src/assets/dokkaebi.png'  height="24"/>
-### 웹사이트 : [도깨비봇](https://i9a302.p.ssafy.io)
 도깨비봇은 '<strong>도</strong>와주고 <strong>깨</strong>워주는 공부 <strong>비</strong>서 로<strong>봇</strong>'의 줄임말로, 시간과 장소의 제약 없이 혼자 있는 공간에서도 효율적으로 공부할 수 있도록 도와주는 웹IoT 서비스입니다.
 
 ### 메인 기능
